@@ -42,5 +42,6 @@ The data presented here is the output of the the GIS analysts work to demarcate 
 
 
 
-
 ![Alt text](Mazar_image.png)
+
+[Interact with the Mazar-e Sharif Data](http://deriggi.github.io/RUNorthArcPy/mazar/mazar.html)
