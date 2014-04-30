@@ -27,7 +27,7 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
         <td>Andkhoy</td> 		<td align='right'>9657</td> <td>[Download](#)</td>
     </tr>
     <tr>
-        <td>Maymana</td> 		<td align='right'>13740</td> <td>[Interact with the Mazar-e Sharif Data](http://deriggi.github.io/RUNorthArcPy/mazar/mazar.html)</td>
+        <td>Maymana</td> 		<td align='right'>13740</td> <td><a href='#'>download</a></td>
     </tr>
     <tr>
         <td>Aqcha</td> 			<td align='right'>6277</td> <td>[Download](#)</td>
