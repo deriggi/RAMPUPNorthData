@@ -3,6 +3,7 @@ RAMP UP North's objective is to strengthen the municipal governments of Northern
 The principal component of this effort involved building a land management system to help government officials  provide better services for their muncipalities.
 The data presented here is the output of the the GIS analysts work to demarcate the boundaries of every parcel of property in the municipalities
 
+## Municipality Parcel Count
 <table>
 	<tr><th>Municipality</th><th align='right'>Parcels</th></tr>
     <tr>
@@ -40,8 +41,9 @@ The data presented here is the output of the the GIS analysts work to demarcate 
     </tr>
 </table>
 
+## A Web Map of the Mazar-e Sharif Data
+[Interact with the Mazar-e Sharif Data](http://deriggi.github.io/RUNorthArcPy/mazar/mazar.html)
 
-
+## Sample Visualisations
 ![Alt text](Mazar_image.png)
 
-[Interact with the Mazar-e Sharif Data](http://deriggi.github.io/RUNorthArcPy/mazar/mazar.html)
