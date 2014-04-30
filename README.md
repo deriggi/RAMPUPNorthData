@@ -65,7 +65,7 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
 ### Shberghan
 ![Alt text](shberghan_parcels.png)
 
-### Khulm
+### Kunduz
 ![Alt text](kunduz_parcels.png)
 
 
