@@ -4,6 +4,7 @@ The principal component of this effort involved building a land management syste
 The data presented here is the output of the the GIS analysts work to demarcate the boundaries of every parcel of property in the municipalities
 
 <table>
+	<tr><th>Municipality</th><th>Parcels</th></tr>
     <tr>
         <td>Faizabad</td> <td align='right'>11972</td>
     </tr>
@@ -19,9 +20,27 @@ The data presented here is the output of the the GIS analysts work to demarcate 
     <tr>
         <td>Andkhoy</td> <td>9657</td>
     </tr>
+    <tr>
+        <td>Maymana</td> <td>13740</td>
+    </tr>
+    <tr>
+        <td>Aqcha</td> <td>6277</td>
+    </tr>
+    <tr>
+        <td>Sheberghan</td> <td>24823</td>
+    </tr>
+    <tr>
+        <td>Kunduz</td> <td>31531</td>
+    </tr>
+    <tr>
+        <td>Aybak</td> <td>5210</td>
+    </tr>
+    <tr>
+        <td>Sar-e Pul</td> <td>9685</td>
+    </tr>
 </table>
 
-Baigul
+
 
 
 ![Alt text](Mazar_image.png)
