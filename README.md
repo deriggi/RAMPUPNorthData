@@ -5,10 +5,9 @@ The data presented here is the output of the the GIS analysts work to demarcate 
 
 The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made to check data quality pertaining to gaps between adjacent walls but some gaps may still exist in spots.  
 
-## Data downloads
+## Shapefile Downloads 
+Shapefiles are in EPGS:4326 projection
 
-
-## Municipality Parcel Count
 <table>
 	<tr><th>Municipality</th>	<th align='right'>Num Parcels</th>  <th align='right'>Download</th> </tr>
     <tr>
