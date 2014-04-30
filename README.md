@@ -56,5 +56,9 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
 ### Pulekhumri 
 ![Alt text](pulekhumri_parcels.png)
 
+### Khulm
+![Alt text](khulm_parcels.png)
+
+
 
 
