@@ -24,7 +24,7 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
         <td>Mazar-e Sharif</td>	<td align='right'>74000</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
-        <td>Andkhoy</td> 		<td align='right'>9657</td> <td><a 	href='#'>download</a>)</td>
+        <td>Andkhoy</td> 		<td align='right'>9657</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
         <td>Maymana</td> 		<td align='right'>13740</td> <td><a 	href='#'>download</a></td>
