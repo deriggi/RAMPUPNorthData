@@ -62,6 +62,9 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
 ### Maymana
 ![Alt text](maymana_parcels.png)
 
+### Shberghan
+![Alt text](shberghan_parcels.png)
+
 
 
 
