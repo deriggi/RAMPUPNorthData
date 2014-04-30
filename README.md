@@ -21,7 +21,7 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
         <td>Khulm</td> 			<td align='right'>7925</td> <td>[Download](#)</td>
     </tr>
     <tr>
-        <td>Mazar-e Sharif</td>	<td align='right'>74000</td> <td>[Download](#)</td>
+        <td>Mazar-e Sharif</td>	<td align='right'>74000</td> <td>![Download](#)</td>
     </tr>
     <tr>
         <td>Andkhoy</td> 		<td align='right'>9657</td> <td>[Download](#)</td>
