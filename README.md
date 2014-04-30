@@ -10,7 +10,7 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
 
 ## Municipality Parcel Count
 <table>
-	<tr><th>Municipality</th>	<th align='right'>Num Parcels</th></tr>
+	<tr><th>Municipality</th>	<th align='right'>Num Parcels</th>  <th align='right'>Download</th> </tr>
     <tr>
         <td>Faizabad</td> 		<td align='right'>11972</td> <td><a 	href='#'>download</a></td>
     </tr>
