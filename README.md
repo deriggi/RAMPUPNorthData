@@ -53,5 +53,8 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
 ### Faizabad
 ![Alt text](faizabad_parcels.png)
 
+### Pulekhumri 
+![Alt text](pulekhumri_parcels.png)
+
 
 
