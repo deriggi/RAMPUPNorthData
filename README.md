@@ -11,7 +11,7 @@ Shapefiles are in EPGS:4326 projection
 <table>
 	<tr><th>Municipality</th>	<th align='right'>Num Parcels</th>  <th align='right'>Download</th> </tr>
     <tr>
-        <td><img src='pulekhumri_parcels.png'/> </td><td>Faizabad</td> 		<td align='right'>11972</td> <td><a 	href='#'>download</a></td>
+        <td><img src='pulekhumri_parcels.png' height=40 width=24/> </td><td>Faizabad</td> 		<td align='right'>11972</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
         <td>Pul-e Kumri</td> 	<td align='right'>24248</td> <td><a 	href='#'>download</a></td>
