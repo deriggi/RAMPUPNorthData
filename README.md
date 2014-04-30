@@ -59,6 +59,9 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
 ### Khulm
 ![Alt text](khulm_parcels.png)
 
+### Maymana
+![Alt text](maymana_parcels.png)
+
 
 
 
