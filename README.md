@@ -12,37 +12,37 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
 <table>
 	<tr><th>Municipality</th>	<th align='right'>Num Parcels</th></tr>
     <tr>
-        <td>Faizabad</td> 		<td align='right'>11972</td> <td>[Download](#)</td>
+        <td>Faizabad</td> 		<td align='right'>11972</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
-        <td>Pul-e Kumri</td> 	<td align='right'>24248</td> <td>[Download](#)</td>
+        <td>Pul-e Kumri</td> 	<td align='right'>24248</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
-        <td>Khulm</td> 			<td align='right'>7925</td> <td>[Download](#)</td>
+        <td>Khulm</td> 			<td align='right'>7925</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
-        <td>Mazar-e Sharif</td>	<td align='right'>74000</td> <td>![Download](#)</td>
+        <td>Mazar-e Sharif</td>	<td align='right'>74000</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
-        <td>Andkhoy</td> 		<td align='right'>9657</td> <td>[Download](#)</td>
+        <td>Andkhoy</td> 		<td align='right'>9657</td> <td><a 	href='#'>download</a>)</td>
     </tr>
     <tr>
-        <td>Maymana</td> 		<td align='right'>13740</td> <td><a href='#'>download</a></td>
+        <td>Maymana</td> 		<td align='right'>13740</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
-        <td>Aqcha</td> 			<td align='right'>6277</td> <td>[Download](#)</td>
+        <td>Aqcha</td> 			<td align='right'>6277</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
-        <td>Sheberghan</td> 	<td align='right'>24823</td> <td>[Download](#)</td>
+        <td>Sheberghan</td> 	<td align='right'>24823</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
-        <td>Kunduz</td> 		<td align='right'>31531</td> <td>[Download](#)</td>
+        <td>Kunduz</td> 		<td align='right'>31531</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
-        <td>Aybak</td> 			<td align='right'>5210</td> <td>[Download](#)</td>
+        <td>Aybak</td> 			<td align='right'>5210</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
-        <td>Sar-e Pul</td> 		<td align='right'>9685</td> <td>[Download](#)</td>
+        <td>Sar-e Pul</td> 		<td align='right'>9685</td> <td><a 	href='#'>download</a></td>
     </tr>
 </table>
 
