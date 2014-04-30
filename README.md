@@ -3,9 +3,11 @@ RAMP UP North's objective is to strengthen the municipal governments of Northern
 The principal component of this effort involved building a land management system to help government officials  provide better services for their muncipalities.
 The data presented here is the output of the the GIS analysts work to demarcate the boundaries of every parcel of property in the municipalities
 
+The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made to check data quality pertaining to gaps between adjacent walls but some gaps may still exist in spots.  
+
 ## Municipality Parcel Count
 <table>
-	<tr><th>Municipality</th>	<th align='right'>Parcels</th></tr>
+	<tr><th>Municipality</th>	<th align='right'>Num Parcels</th></tr>
     <tr>
         <td>Faizabad</td> 		<td align='right'>11972</td>
     </tr>
