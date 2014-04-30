@@ -47,5 +47,9 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
 [Interact with the Mazar-e Sharif Data](http://deriggi.github.io/RUNorthArcPy/mazar/mazar.html)
 
 ## Sample Visualisations
+### Mazar-e Sharif
 ![Alt text](Mazar_image.png)
+
+### Mazar-e Sharif
+![Alt text](faizabad_parcels.png)
 
