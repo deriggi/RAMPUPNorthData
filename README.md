@@ -27,7 +27,7 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
         <td>Andkhoy</td> 		<td align='right'>9657</td> <td>[Download](#)</td>
     </tr>
     <tr>
-        <td>Maymana</td> 		<td align='right'>13740</td> <td>[Download](#)</td>
+        <td>Maymana</td> 		<td align='right'>13740</td> <td>[Download](http://#)</td>
     </tr>
     <tr>
         <td>Aqcha</td> 			<td align='right'>6277</td> <td>[Download](#)</td>
