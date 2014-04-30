@@ -66,7 +66,7 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
 ![Alt text](shberghan_parcels.png)
 
 ### Khulm
-![Alt text](khulm_parcels.png)
+![Alt text](kunduz_parcels.png)
 
 
 
