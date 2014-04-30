@@ -50,6 +50,8 @@ The data was traced using ArcGIS 10.1 and imagery from xxxx. An effort was made 
 ### Mazar-e Sharif
 ![Alt text](Mazar_image.png)
 
-### Mazar-e Sharif
+### Faizabad
 ![Alt text](faizabad_parcels.png)
+
+
 
