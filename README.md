@@ -92,5 +92,8 @@ The quickest way to work with the data is to open it up in your favorite GIS sof
 ### Kunduz
 ![Alt text](kunduz_parcels.png)
 
+##License
+This data is available under the [Creative Commons License](http://creativecommons.org/licenses/by-nc/3.0/)
+
 
 
