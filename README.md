@@ -71,7 +71,7 @@ The quickest way to work with the data is to open it up in your favorite GIS sof
 
 
 ## Sample Visualisations
-Here are some simple visualisations made in QGIS with the parcel data
+Here some sample visualisations to give you an idea of the how the municipalities vary in size and distribution. Each was made with QGIS.
 
 ### Mazar-e Sharif
 ![Alt text](mazar_parcels.png)
