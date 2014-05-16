@@ -1,4 +1,4 @@
-# 219,068 Parcel Boundaries for Municipalities in Northern Afghanistan
+
 ![Alt text](Mazar_image_2.png)
 
 RAMP UP North's objective is to strengthen the municipal governments of Northern Afghanistan.
