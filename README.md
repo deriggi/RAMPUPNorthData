@@ -63,7 +63,7 @@ The quickest way to work with the data is to open it up in your favorite GIS sof
 * Choose one of the files from the table above and download it and unzip it
 * Open up QGIS
 * Drag the .shp file onto your workspace
-![drag .SHP file onto qgis](drag_qgis.png)
+![Alt text](drag_qgis.png)
 
 
 ## A Web Map of the Mazar-e Sharif Data
