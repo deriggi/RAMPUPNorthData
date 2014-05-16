@@ -45,8 +45,10 @@ Separate shapefiles for each municipality are available here. Each file uses the
     </tr>
 </table>
 
+ 
+
 ## The Uses of Parcel Boundaries
-The parcel is applicable to a variety of situations and is probably most valuable  to Afghan municipal governments, and data practitioners in Afghanistan. Hopefully, the people of Afghanistan can use the data to simply study and improve the urban areas near where they live.
+The parcel data is applicable to a variety of situations and is probably most valuable  to Afghan municipal governments, and data practitioners working in Afghanistan. Hopefully, the people of Afghanistan can use the data to simply study and improve the urban areas near where they live.
 
 After the Haiti earthquake, there was a conspicuous lack of spatial data about building infrastructure. This resulted in an [an incredibly fast construction](http://vimeo.com/9182869)of open spatial data in OSM. Presumably, if first responders had access to this data before the earthquake, then disaster response could have been more efficient
 
