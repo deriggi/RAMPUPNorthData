@@ -62,7 +62,7 @@ After the Haiti earthquake, there was a conspicuous lack of spatial data about b
 
 ## Sample Visualisations
 ### Mazar-e Sharif
-![Alt text](Mazar_image.png)
+![Alt text](mazar_parcels.png)
 
 ### Faizabad
 ![Alt text](faizabad_parcels.png)
