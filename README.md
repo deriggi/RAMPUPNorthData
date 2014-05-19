@@ -55,7 +55,7 @@ The parcel data is applicable to a variety of situations and is probably most va
 
 The data is especially relevant to the field of disaster response. Northern Afghanistan has a [history of earthquakes](http://earthquake.usgs.gov/earthquakes/world/historical_country.php#afghanistan), including two in 1998 in which over 6,000 people lost their lives. With the danger clearly there, accurate urban spatial data could help people plan and respond to natural hazard events in the future.   
 
-After the Haiti earthquake, there was a conspicuous lack of spatial data about building infrastructure. This resulted in an [an incredibly fast construction](http://vimeo.com/9182869) of open spatial data in OSM. Presumably, if first responders had access to this data before the earthquake, then the relief effort could have been more efficient
+After the Haiti earthquake, there was a conspicuous lack of spatial data about building infrastructure. This resulted in an [an incredibly fast construction](http://vimeo.com/9182869) of open spatial data in OSM. Presumably, if first responders had access to this data before the earthquake then the relief effort could have been more efficient
 
 ## Working with the data
 The quickest way to work with the data is to open it up in your favorite GIS software. QGIS is a free tool and works well for anayzing shapefiles. [Download QGIS] (http://www.qgis.org/en/site/forusers/download.html) if you do not already have it on your machine
