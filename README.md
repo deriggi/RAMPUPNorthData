@@ -14,7 +14,8 @@ Separate shapefiles for each municipality are available here. Each file uses the
 <table>
 	<tr><th>Municipality</th>	<th align='right'>Num Parcels</th>  <th align='right'>Download</th> </tr>
     <tr>
-        <td>Faizabad</td> 		<td align='right'>11972</td> <td><a 	href='#'>download</a></td>
+        <td>Faizabad</td> 		<td align='right'>11972</td> <td>
+        <a href='/municipal_parcels_export/Badakshan'>download</a></td>
     </tr>
     <tr>
         <td>Pul-e Kumri</td> 	<td align='right'>24248</td> <td><a 	href='#'>download</a></td>
