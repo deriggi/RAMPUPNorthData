@@ -23,7 +23,7 @@ Separate shapefiles for each municipality are available here. Each file uses the
         <td>Khulm</td> 			<td align='right'>7925</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
-        <td>Mazar-e Sharif</td>	<td align='right'>74000</td> <td><a 	href='#'>download</a></td>
+        <td>Mazar-e Sharif</td>	<td align='right'>79865</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
         <td>Andkhoy</td> 		<td align='right'>9657</td> <td><a 	href='#'>download</a></td>
@@ -53,9 +53,9 @@ Separate shapefiles for each municipality are available here. Each file uses the
 ## The Uses of Parcel Boundaries
 The parcel data is applicable to a variety of situations and is probably most valuable to Afghan municipal governments and data practitioners working in Afghanistan. Hopefully, the people of Afghanistan can use the data to simply study and improve the urban areas near where they live.
 
-The data is especially relevant to the field of disaster response. Northern Afghanistan has a [history of earthquakes](http://earthquake.usgs.gov/earthquakes/world/historical_country.php#afghanistan), including two in 1998 which in total killed over 6000 people.
+The data is especially relevant to the field of disaster response. Northern Afghanistan has a [history of earthquakes](http://earthquake.usgs.gov/earthquakes/world/historical_country.php#afghanistan), including two in 1998 in which over 6,000 people lost their lives. With the danger clearly there, accurate urban spatial data could help people plan and respond to natural hazard events in the future.   
 
-After the Haiti earthquake, there was a conspicuous lack of spatial data about building infrastructure. This resulted in an [an incredibly fast construction](http://vimeo.com/9182869)of open spatial data in OSM. Presumably, if first responders had access to this data before the earthquake, then the relief effort could have been more efficient
+After the Haiti earthquake, there was a conspicuous lack of spatial data about building infrastructure. This resulted in an [an incredibly fast construction](http://vimeo.com/9182869) of open spatial data in OSM. Presumably, if first responders had access to this data before the earthquake then the relief effort could have been more efficient
 
 ## Working with the data
 The quickest way to work with the data is to open it up in your favorite GIS software. QGIS is a free tool and works well for anayzing shapefiles. [Download QGIS] (http://www.qgis.org/en/site/forusers/download.html) if you do not already have it on your machine
@@ -63,7 +63,7 @@ The quickest way to work with the data is to open it up in your favorite GIS sof
 * Choose one of the files from the table above and download it and unzip it
 * Open up QGIS
 * Drag the .shp file onto your workspace
-
+![drag .SHP file onto qgis workspace](dragqgis.png)
 
 
 ## A Web Map of the Mazar-e Sharif Data
@@ -71,6 +71,8 @@ The quickest way to work with the data is to open it up in your favorite GIS sof
 
 
 ## Sample Visualisations
+Here some sample visualisations to give you an idea of the how the municipalities vary in size and distribution. Each was made with QGIS.
+
 ### Mazar-e Sharif
 ![Alt text](mazar_parcels.png)
 
@@ -91,6 +93,9 @@ The quickest way to work with the data is to open it up in your favorite GIS sof
 
 ### Kunduz
 ![Alt text](kunduz_parcels.png)
+
+##License
+This data is available under the [Creative Commons License](http://creativecommons.org/licenses/by-nc/3.0/)
 
 
 
