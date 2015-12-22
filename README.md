@@ -27,19 +27,19 @@ Separate shapefiles for each municipality are available here. Each file uses the
         <td>Mazar-e Sharif</td>	<td align='right'>79865</td> <td><a 	href='/municipal_parcels_export/Balkh'>download</a></td>
     </tr>
     <tr>
-        <td>Andkhoy</td> 		<td align='right'>9657</td> <td><a 	href='#'>download</a></td>
+        <td>Andkhoy</td> 		<td align='right'>9657</td> <td><a 	href='/municipal_parcels_export/Faryab'>download</a></td>
     </tr>
     <tr>
-        <td>Maymana</td> 		<td align='right'>13740</td> <td><a 	href='#'>download</a></td>
+        <td>Maymana</td> 		<td align='right'>13740</td> <td><a 	href='/municipal_parcels_export/Faryab'>download</a></td>
     </tr>
     <tr>
         <td>Aqcha</td> 			<td align='right'>6277</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
-        <td>Sheberghan</td> 	<td align='right'>24823</td> <td><a 	href='#'>download</a></td>
+        <td>Sheberghan</td> 	<td align='right'>24823</td> <td><a 	href='/municipal_parcels_export/Jawzan'>download</a></td>
     </tr>
     <tr>
-        <td>Kunduz</td> 		<td align='right'>31531</td> <td><a 	href='#'>download</a></td>
+        <td>Kunduz</td> 		<td align='right'>31531</td> <td><a 	href='/municipal_parcels_export/Kunduz'>download</a></td>
     </tr>
     <tr>
         <td>Aybak</td> 			<td align='right'>5210</td> <td><a 	href='#'>download</a></td>
