@@ -36,16 +36,16 @@ Separate shapefiles for each municipality are available here. Each file uses the
         <td>Aqcha</td> 			<td align='right'>6277</td> <td><a 	href='#'>download</a></td>
     </tr>
     <tr>
-        <td>Sheberghan</td> 	<td align='right'>24823</td> <td><a 	href='/municipal_parcels_export/Jawzan'>download</a></td>
+        <td>Sheberghan</td> 	<td align='right'>24823</td> <td><a 	href='/municipal_parcels_export/Jawzjan'>download</a></td>
     </tr>
     <tr>
         <td>Kunduz</td> 		<td align='right'>31531</td> <td><a 	href='/municipal_parcels_export/Kunduz'>download</a></td>
     </tr>
     <tr>
-        <td>Aybak</td> 			<td align='right'>5210</td> <td><a 	href='#'>download</a></td>
+        <td>Aybak</td> 			<td align='right'>5210</td> <td><a 	href='/municipal_parcels_export/Samangan'>download</a></td>
     </tr>
     <tr>
-        <td>Sar-e Pul</td> 		<td align='right'>9685</td> <td><a 	href='#'>download</a></td>
+        <td>Sar-e Pul</td> 		<td align='right'>9685</td> <td><a 	href='/municipal_parcels_export/Sarepul'>download</a></td>
     </tr>
 </table>
 
