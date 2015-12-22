@@ -21,10 +21,10 @@ Separate shapefiles for each municipality are available here. Each file uses the
         <td>Pul-e Kumri</td> 	<td align='right'>24248</td> <td><a 	href='/municipal_parcels_export/Baghlan'>download</a></td>
     </tr>
     <tr>
-        <td>Khulm</td> 			<td align='right'>7925</td> <td><a 	href='#'>download</a></td>
+        <td>Khulm</td> 			<td align='right'>7925</td> <td><a 	href='/municipal_parcels_export/Balkh'>download</a></td>
     </tr>
     <tr>
-        <td>Mazar-e Sharif</td>	<td align='right'>79865</td> <td><a 	href='#'>download</a></td>
+        <td>Mazar-e Sharif</td>	<td align='right'>79865</td> <td><a 	href='/municipal_parcels_export/Balkh'>download</a></td>
     </tr>
     <tr>
         <td>Andkhoy</td> 		<td align='right'>9657</td> <td><a 	href='#'>download</a></td>
