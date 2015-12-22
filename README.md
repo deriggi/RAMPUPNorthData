@@ -57,7 +57,7 @@ The data is especially relevant to the field of disaster response. Northern Afgh
 After the Haiti earthquake, there was a conspicuous lack of spatial data about building infrastructure. This resulted in an [an incredibly fast construction](http://vimeo.com/9182869) of open spatial data in OSM. Presumably, if first responders had access to this data before the earthquake then the relief effort could have been more efficient
 
 ## Working with the data
-The quickest way to work with the data is to open it up in your favorite GIS software. QGIS is a free tool and works well for anayzing shapefiles. [Download QGIS] (http://www.qgis.org/en/site/forusers/download.html) if you do not already have it on your machine
+The easiest way to work with the data is to open it up in your favorite GIS. QGIS is a free tool and works well for anayzing shapefiles. [Download QGIS] (http://www.qgis.org/en/site/forusers/download.html) if you do not already have it on your machine
 
 * Choose one of the files from the table above and download it and unzip it
 * Open up QGIS
