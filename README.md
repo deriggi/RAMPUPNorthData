@@ -9,7 +9,7 @@ The data presented here is the output of the the GIS analysts work to demarcate 
 The data was traced using ArcGIS 10.1 and imagery from USAID's GeoCenter. An effort was made to check data quality pertaining to gaps between adjacent walls but some gaps may still exist.  
 
 ## Shapefile Downloads 
-Separate shapefiles for each municipality are available here. Each file uses the EPGS:4326 projection.
+Separate shapefiles for each municipality are available here. Each file uses the EPSG:4326 projection.
 
 <table>
 	<tr><th>Municipality</th>	<th align='right'>Num Parcels</th>  <th align='right'>Download</th> </tr>
