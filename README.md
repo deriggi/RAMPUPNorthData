@@ -32,9 +32,7 @@ Separate shapefiles for each municipality are available here. Each file uses the
     <tr>
         <td>Maymana</td> 		<td align='right'>13740</td> <td><a 	href='/municipal_parcels_export/Faryab'>download</a></td>
     </tr>
-    <tr>
-        <td>Aqcha</td> 			<td align='right'>6277</td> <td><a 	href='#'>download</a></td>
-    </tr>
+    
     <tr>
         <td>Sheberghan</td> 	<td align='right'>24823</td> <td><a 	href='/municipal_parcels_export/Jawzjan'>download</a></td>
     </tr>
